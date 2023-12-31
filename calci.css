@@ -70,7 +70,8 @@ h1{
 input{
   color:white;
   background:transparent;
-  width: fit-content;
+  width: 60%;
+  margin-left: 50px;
   height: 30px;
   border-radius: 10px;
   margin-bottom: 15px;
